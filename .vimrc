@@ -1,4 +1,6 @@
 " Name:     .vimrc
+" Author:   gladstone
+" Created:  2009-12-23
 
 " Forget being compatible with good old vi
 set nocompatible
