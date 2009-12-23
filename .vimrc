@@ -1,3 +1,5 @@
+" Name:     .vimrc
+
 " Forget being compatible with good old vi
 set nocompatible
 
