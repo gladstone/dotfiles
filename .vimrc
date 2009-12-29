@@ -2,6 +2,8 @@
 " Author:   gladstone
 " Created:  2009-12-23
 
+colorscheme zenburn
+
 " Forget being compatible with good old vi
 set nocompatible
 
